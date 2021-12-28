@@ -1,4 +1,4 @@
-# jakvandervaate
+# jakevandervaate
 
 * Technical writer
 * Document designer
